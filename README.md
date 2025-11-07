@@ -105,6 +105,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [K8s Muhamad Eiemam](/K8s_muhamad_eiemam.pdf)
 * [k8s cheat sheet](/Kubernetes%20Cheat%20Sheet.pdf)
 * [k8s for every one](/Kubernetes%20For%20Everyone.pdf)
+* [k8s for Full Stack Developers](/kubernetes-for-full-stack-developers.pdf)
 
 ### L
 
